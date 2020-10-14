@@ -1,0 +1,25 @@
+.header {
+  height: 60px;
+  background-color: #ffe299;
+  box-shadow: 0px 6px 25px -19px rgba(150,150,150,1);
+  display: flex;
+}
+
+.header > div {
+  margin: auto 0 auto 10px;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.content {
+  max-width: 1100px;
+  width: 100%;
+  margin: auto;
+}
+
+.mainContainer {
+  padding: 50px 0 0 0;
+  height: calc(100vh - 110px);
+  overflow: auto;
+  background-color: #ffecc1;
+}
