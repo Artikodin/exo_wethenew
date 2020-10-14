@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> should list exact number of item 1`] = `3`;
+
+exports[`<List /> should render withouth a problem 1`] = `
+<ul
+  class="list"
+/>
+`;
+
+exports[`<PageLayout /> should render withouth a problem 1`] = `
+<ul
+  class="list"
+/>
+`;
