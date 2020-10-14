@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PageLayout /> should contain correct children 1`] = `
+<div>
+  <header
+    class="header"
+  >
+    <div>
+      <a
+        class="custom-link"
+        href="/"
+      >
+        WETHENEW
+      </a>
+    </div>
+  </header>
+  <div
+    class="mainContainer"
+  >
+    <div
+      class="content"
+    />
+  </div>
+</div>
+`;
+
+exports[`<PageLayout /> should render withouth a problem 1`] = `
+<div>
+  <header
+    class="header"
+  >
+    <div>
+      <a
+        class="custom-link"
+        href="/"
+      >
+        WETHENEW
+      </a>
+    </div>
+  </header>
+  <div
+    class="mainContainer"
+  >
+    <div
+      class="content"
+    />
+  </div>
+</div>
+`;
+
+exports[`<PageLayout /> should render withouth a problem 2`] = `
+<div>
+  <header
+    class="header"
+  >
+    <div>
+      <a
+        class="custom-link"
+        href="/"
+      >
+        WETHENEW
+      </a>
+    </div>
+  </header>
+  <div
+    class="mainContainer"
+  >
+    <div
+      class="content"
+    />
+  </div>
+</div>
+`;

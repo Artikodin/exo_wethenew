@@ -19,7 +19,7 @@ import "./style.css";
 
 const Item = ({ id, source, title, price }) => {
   return (
-    <li className="card">
+    <li className="card" data-testid="list-item">
       <Link to={`/product/${id}`} className="custom-link">
         <img className="card__image" src={source} alt={title} />
         <h3 className="card__title">{title}</h3>
